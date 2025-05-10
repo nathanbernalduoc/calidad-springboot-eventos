@@ -13,9 +13,9 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 
-import com.nathan.springboot_foro.controllers.UsuarioController;
-import com.nathan.springboot_foro.dto.UsuarioDto;
-import com.nathan.springboot_foro.service.UsuarioServicelmpl;
+import com.nathan.springboot_evento.controllers.UsuarioController;
+import com.nathan.springboot_evento.dto.UsuarioDto;
+import com.nathan.springboot_evento.service.UsuarioServicelmpl;
 
 @WebMvcTest(UsuarioController.class)
 public class UsuarioControllerTest {
@@ -33,21 +33,15 @@ public class UsuarioControllerTest {
         usuario1.setRol(1);
         usuario1.setAlias("nathanbernal");
         usuario1.setPassword("123");
-        usuario1.setKeyWord("asdsa-f#");
         usuario1.setNombres("Nathan");
         usuario1.setApellidos("Bernal");
-        usuario1.setDireccion("Avenida Test #12");
-        usuario1.setVigencia(1);
 
         UsuarioDto usuario2 = new UsuarioDto();
         usuario2.setRol(2);
         usuario2.setAlias("usuarioTest");
         usuario2.setPassword("1122");
-        usuario2.setKeyWord("dfg");
         usuario2.setNombres("Juan");
         usuario2.setApellidos("Test");
-        usuario2.setDireccion("Calle 4, Casa 30");
-        usuario2.setVigencia(1);
 
         List<UsuarioDto> usuarios = Arrays.asList(usuario1, usuario2);
         when(usuarioServiceMock.getAllUsuarios()).thenReturn(usuarios);

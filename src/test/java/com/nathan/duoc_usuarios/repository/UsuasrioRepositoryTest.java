@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 
-import com.nathan.springboot_foro.dto.UsuarioDto;
-import com.nathan.springboot_foro.repository.UsuarioRepository;
+import com.nathan.springboot_evento.dto.UsuarioDto;
+import com.nathan.springboot_evento.repository.UsuarioRepository;
 
 @DataJpaTest
 @AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
@@ -24,9 +24,7 @@ public class UsuasrioRepositoryTest {
         UsuarioDto usuario = new UsuarioDto();
         usuario.setApellidos("Perez");
         usuario.setNombres("Juan");
-        usuario.setDireccion("Su casa");
         usuario.setRol(2);
-        usuario.setKeyWord("Clave de prueba");
         usuario.setPassword("Contraseña1");
         usuario.setAlias("juanperez");
 

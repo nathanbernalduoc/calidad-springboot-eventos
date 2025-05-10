@@ -1,14 +1,14 @@
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\controllers\EventoController.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\controllers\EventoNotFoundExcepcion.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\controllers\UsuarioController.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\controllers\UsuarioNotFoundExcepcion.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\dto\EventoDto.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\dto\LoginDto.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\dto\UsuarioDto.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\repository\EventoRepository.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\repository\UsuarioRepository.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\service\EventoService.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\service\EventoServicelmpl.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\service\UsuarioService.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\service\UsuarioServicelmpl.java
-C:\Dev\projects\fullstack3\Semana 6\spingboot-eventos\src\main\java\com\nathan\springboot_eventos\SpringbootEventosApplication.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/SpringbootEventosApplication.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/controllers/EventoController.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/controllers/EventoNotFoundExcepcion.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/controllers/UsuarioController.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/controllers/UsuarioNotFoundExcepcion.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/dto/EventoDto.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/dto/LoginDto.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/dto/UsuarioDto.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/repository/EventoRepository.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/repository/UsuarioRepository.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/service/EventoService.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/service/EventoServicelmpl.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/service/UsuarioService.java
+/Users/nathan/Projects/duoc/qa/week8/calidad-springboot-eventos/src/main/java/com/nathan/springboot_evento/service/UsuarioServicelmpl.java
